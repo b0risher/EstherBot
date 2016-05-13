@@ -17,7 +17,7 @@
     "FISCHSTÜCKE FALLEN AUS DEM MUND": "Verstehe, dann müssen wir woanders hin. %[Pizzeria Olbia](postback:pizzeria_olbia) %[Hennscheid](postback:hennscheid) %[No. 16](postback:no_16) %[Steak](postback:steak) %[Ich muss kotzen](postback:ich_muss_kotzen) %[Mir ist nach was exotischem](postback:mir_ist_nach_was_exotischem)",
     "MIR IST NACH WAS EXOTISCHEM": "Ok, das sollten wir in einem Telefonat besprechen - ganz wie damals im Jahre 1997. (http://img.shz.de/img/incoming/crop6788061/6306394032-cv16_9-w596/Waehlscheibentelefon-imago50700515h.jpg)",
     "ICH MUSS KOTZEN": "Ich muss weg.",
-    "UND SONST SO?!": "ajo, geht schon, und selbst? %[Hervorglänzend](postback:hervorglänzend) %[Nicht so geil](postback:nicht_so_geil)",
+    "UND SONST SO?!": "ajo, geht schon und selbst? %[Hervorglänzend](postback:hervorglänzend) %[Nicht so geil](postback:nicht_so_geil)",
     "HERVORGLÄNZEND": "Sehr gut, dann können wir ja jetzt essen gehen.. %[Wohin gehen wir essen?](postback:wohin_gehen_wir_essen)",
     "NICHT SO GEIL": "Ich denke Payroll Giovanni sagt es in seinem lyrischen Meisterwerk Nothin To A Boss sehr gut:\n (https://www.youtube.com/watch?v=KC2XOfzu-E4) %[BOSS back at it](postback:boss_back_at_it)",
     "BOSS BACK AT IT": "Sehr gut, dann können wir ja jetzt essen gehen.. %[Wohin gehen wir essen?](postback:wohin_gehen_wir_essen)",
