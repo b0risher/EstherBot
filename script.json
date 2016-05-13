@@ -1,4 +1,5 @@
 {
+    "/start": "Begrüße mich mit einem herzlichen Hallo",
     "BOT": "Hallo!\nIch bin der persönliche bot von @b0risher\n![Boris](https://pbs.twimg.com/profile_images/1188825735/meinachair.jpg)\nAufgrund der stetigen Zunahme an Kurzmitteilungen wurde der Antwortprozess automatisiert.\nIch befinde mich im frühen Beta Stadium und rechne damit @b0risher bis 2023 vollständig ersetzen zu können.\nWas möchten Sie wissen? %[Wann gehen wir essen?](postback:wann_gehen_wir_essen) %[Und sonst so?!](postback:und_sonst_so)",
     "HALLO": "Hallo!\nIch bin der persönliche bot von @b0risher\n![Boris](https://pbs.twimg.com/profile_images/1188825735/meinachair.jpg)\nAufgrund der stetigen Zunahme an Kurzmitteilungen wurde der Antwortprozess automatisiert.\nIch befinde mich im frühen Beta Stadium und rechne damit @b0risher bis 2023 vollständig ersetzen zu können.\nWas möchten Sie wissen? %[Wann gehen wir essen?](postback:wann_gehen_wir_essen) %[Und sonst so?!](postback:und_sonst_so)",
     "WANN GEHEN WIR ESSEN?": "Ich bin zeitlich flexibel und essen muss man ja immer! %[Wohin gehen wir essen?](postback:wohin_gehen_wir_essen)",
