@@ -11,7 +11,7 @@
     "ICH BIN ZU ARM": "Geh arbeiten, ich lade Dich jedenfalls nicht ein (jaja, ok ok, eventuell auf n Glas Wein) %[Scheiss drauf, lass die Sau raus](postback:scheiss_drauf_lass_die_sau_raus)",
     "SCHEISS DRAUF, LASS DIE SAU RAUS": "So will ich das sehen, die automatische Tischreservierung ist noch nicht implementiert also ruf an, aber ZACK!!",
     "STEAK": "Fleisch: Da gibts nur das Buffalo Steakhaus und der Service hat sich dort auch gebessert, von -4 auf +1 %[Ich will aber No. 16](postback:ich_will_aber_no_16)",
-    "ICH WILL ABER NO. 16": "NO. 16",
+    "ICH WILL ABER NO. 16": "(postback:scheiss_drauf_lass_die_sau_raus)",
     "WIE WÄRE ES MIT FISCH?": "Ist denn schon Freitag ? Naja, ich muss sowieso zum Finanzamt und der Marokkaner macht einfach ne hammer Fischplatte! %[Fischstücke fallen aus dem Mund](postback:fischstücke_fallen_aus_dem_mund)",
     "FISCHSTÜCKE FALLEN AUS DEM MUND": "Verstehe, dann müssen wir woanders hin. %[Pizzeria Olbia](postback:pizzeria_olbia) %[Hennscheid](postback:hennscheid) %[No. 16](postback:no_16) %[Steak](postback:steak) %[Ich muss kotzen](postback:ich_muss_kotzen) %[Mir ist nach was exotischem](postback:mir_ist_nach_was_exotischem)",
     "MIR IST NACH WAS EXOTISCHEM": "Ok, das sollten wir in einem Telefonat besprechen - ganz wie damals im Jahre 1997. (http://img.shz.de/img/incoming/crop6788061/6306394032-cv16_9-w596/Waehlscheibentelefon-imago50700515h.jpg)",
